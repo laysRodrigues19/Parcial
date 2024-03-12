@@ -1,3 +1,3 @@
 # Sample Snack app
 
-![]ft(./assets/parcial.PNG)
+![ft](./assets/parcial.PNG)
